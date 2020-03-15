@@ -1,0 +1,1776 @@
+{
+  "program": {
+    "fileInfos": {
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es6.d.ts": {
+        "version": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da",
+        "signature": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
+        "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
+        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a",
+        "signature": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
+        "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
+        "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
+        "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+        "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
+        "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iendpoint.ts": {
+        "version": "c3aecf8fff8a591f83cf4dee33d15998979c02eb87685f96842721baabce8387",
+        "signature": "d5bbd9b9927bd71d161f8a40748e641817e0d2ba9cd2dcb7f74cb606338871de"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/timer.ts": {
+        "version": "0ecb0e7eb9e0432bfe3598f0a0ffdfaac3ff5481090db66696edbf2d58bc1aba",
+        "signature": "7f738c11e65f23c7f0506351982f9daae11ab87453a09d6933c2dc7fbd5df8ca"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/debug/index.d.ts": {
+        "version": "3cf5f191d75bbe7c92f921e5ae12004ac672266e2be2ece69f40b1d6b1b678f9",
+        "signature": "3cf5f191d75bbe7c92f921e5ae12004ac672266e2be2ece69f40b1d6b1b678f9"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/logger.ts": {
+        "version": "1bfcbf35906a3e3dd5d2795d948f68147773113cd7df6d3d893d5adc7c9a4ab7",
+        "signature": "546187c79e0ffe465250fac6a1b1ddd5a5409655b94637818e1d0637a60bab12"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/stopwatch.ts": {
+        "version": "5b24a53b6ea817aeea21b1d5082d93c8851b2e843953dcaf233fd0f3cefc0c13",
+        "signature": "e94910ab66328a1b65fd6aa070331cabbb63db5674121793435d5511b4e8febf"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts": {
+        "version": "389b7d0447d28d9aa24126dda3af5be8d8528ae2da220b343157670c2fbdac40",
+        "signature": "8add8dc5ac2c76dc94e5b044c96b41540ce3b67bd82038ff425504540968c7a5"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/errors.ts": {
+        "version": "9599ba5e1034f9ff966d61c1c83aa55e200a44618b301bee05712445a15bbcae",
+        "signature": "1c4667d621aff2f2ad25c36cb79ee79b98983914fa054c5875cc350192a0e02e"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/errors.ts": {
+        "version": "0f27fca5e68daa0af03715d9f484d842d584e3c7b9b044e4b556174620e75b95",
+        "signature": "cf97172b9da3ff29a5503a415a8133a9aa708a6b60c89e087cbbfe0f29d3cefa"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/errors.ts": {
+        "version": "be32e43d8862ee32c28d59e5af9d5ddba808198761fa31768ee34b4fc5f8a6ae",
+        "signature": "13fb2d966ac948e81cb29a13eb2bb2520f269c84b9720cc08a175fea20c299fc"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/remoerror.ts": {
+        "version": "8d80e531c216d0c09fe39e6b0fdc4c2a939cf8218ff9dc576c70cb594ea91a4a",
+        "signature": "b763db07590ddbb91f0c48a16fe86fc608f156cc3873fdd367cf61025ae4d2f2"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/remoteerror.ts": {
+        "version": "94c98b4f9a5d19c2af22bdfd258b01a8d8b73882332de3c10a354493537528a4",
+        "signature": "f1e46a009d39e23a2811fc5e7e78bb9a00f3a37336b3539c537493ec75f823d5"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts": {
+        "version": "f0e35d7b304e715e1664ca8838a60271063519cf4c446ae6f72b01afd1e84fbf",
+        "signature": "3e0a03f1744d70b3b04a0c71cd02446065c193265cc07f43f532a83c12bb0c79"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/endpoint.ts": {
+        "version": "bd32dcc42767e5f7d0beb55c6bb499247cf6a8ee4fe759316f51b6549f2248ce",
+        "signature": "8211cf10a0bfa007c74a1ba27328604cb6ddbea3df55806bdf97dc0432e48a80"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/types.ts": {
+        "version": "18a41519ab4ea42e5fa01891a603ddada4a21da486a63878b8dfba647f441c24",
+        "signature": "9d10768dcf50de2e84772a4fbf95658b31749d3408c5992dc85a219230ad8366"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/serializer.ts": {
+        "version": "aa7dd50de7bec08b5013eed714ab322eb4f11d4e899b5b878e9404cf3dd62a78",
+        "signature": "d00895dd52bf54e917e39130d083b21a3da011a3be4db4f1bee71ec178be8355"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/index.ts": {
+        "version": "43c4237748a6665a89a4eafaacc3103495c80c91b67f35c484c7b51e28a51cdb",
+        "signature": "f31186cb5aeab7c3ad1eafa2ac49a3a451f17a3a796368ef5cf68cf893043d2e"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/globals.d.ts": {
+        "version": "e4461b72726848da76a31153b6b01af5e0be3b08dbfa2ec5741ad302eb20f2ed",
+        "signature": "e4461b72726848da76a31153b6b01af5e0be3b08dbfa2ec5741ad302eb20f2ed"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/assert.d.ts": {
+        "version": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f",
+        "signature": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/async_hooks.d.ts": {
+        "version": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561",
+        "signature": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/buffer.d.ts": {
+        "version": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878",
+        "signature": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/child_process.d.ts": {
+        "version": "123366127434e33eade36f3d06653dbc7457397fc93cfdd100776cfc12b6734c",
+        "signature": "123366127434e33eade36f3d06653dbc7457397fc93cfdd100776cfc12b6734c"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/cluster.d.ts": {
+        "version": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
+        "signature": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/console.d.ts": {
+        "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
+        "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/constants.d.ts": {
+        "version": "8ce9418c78d3c1fb703ddbe38c936d34a989ba278666979826590dfa0772a424",
+        "signature": "8ce9418c78d3c1fb703ddbe38c936d34a989ba278666979826590dfa0772a424"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/crypto.d.ts": {
+        "version": "77c1fb6a190212f87a5edb26351d419c31dff1992c48707540cdcf812e4655f1",
+        "signature": "77c1fb6a190212f87a5edb26351d419c31dff1992c48707540cdcf812e4655f1"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dgram.d.ts": {
+        "version": "7954df44c35d39b851b996fdc1af0a252e4e23f862abfef388a058203bb94c30",
+        "signature": "7954df44c35d39b851b996fdc1af0a252e4e23f862abfef388a058203bb94c30"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts": {
+        "version": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c",
+        "signature": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/domain.d.ts": {
+        "version": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa",
+        "signature": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts": {
+        "version": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c",
+        "signature": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/fs.d.ts": {
+        "version": "6bd120d96313412155ae7d4766d586a38576a058b3e269be2152db7030fbc882",
+        "signature": "6bd120d96313412155ae7d4766d586a38576a058b3e269be2152db7030fbc882"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts": {
+        "version": "db6de49919cf11a300f9203371d8e251d58558c509b3b92cee3badadfdb34d36",
+        "signature": "db6de49919cf11a300f9203371d8e251d58558c509b3b92cee3badadfdb34d36"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http2.d.ts": {
+        "version": "745494f14a9e133beee622ca51cdc59c8896ff77c9f3cd017a4ce735b30dac2d",
+        "signature": "745494f14a9e133beee622ca51cdc59c8896ff77c9f3cd017a4ce735b30dac2d"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/https.d.ts": {
+        "version": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6",
+        "signature": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/inspector.d.ts": {
+        "version": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c",
+        "signature": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/module.d.ts": {
+        "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
+        "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts": {
+        "version": "1224b49e2c8f3b4ed618969d2989412d1282536d2a6a31c30c84d5da01d8b8e4",
+        "signature": "1224b49e2c8f3b4ed618969d2989412d1282536d2a6a31c30c84d5da01d8b8e4"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/os.d.ts": {
+        "version": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486",
+        "signature": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/path.d.ts": {
+        "version": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
+        "signature": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f",
+        "signature": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/process.d.ts": {
+        "version": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389",
+        "signature": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/punycode.d.ts": {
+        "version": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1",
+        "signature": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/querystring.d.ts": {
+        "version": "e0070c45bf15b872f58eee948f71ad6f4f424f36330b2477753fc1aed3ece36e",
+        "signature": "e0070c45bf15b872f58eee948f71ad6f4f424f36330b2477753fc1aed3ece36e"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/readline.d.ts": {
+        "version": "0870ded99753a8561f19452466e7d094f122ef12960024946ea45d8694693f54",
+        "signature": "0870ded99753a8561f19452466e7d094f122ef12960024946ea45d8694693f54"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/repl.d.ts": {
+        "version": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157",
+        "signature": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts": {
+        "version": "2350c09d0121a0b22c386a7bb8436d521b444c6b4b3e6ee37197d08a23f3b9dd",
+        "signature": "2350c09d0121a0b22c386a7bb8436d521b444c6b4b3e6ee37197d08a23f3b9dd"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/string_decoder.d.ts": {
+        "version": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432",
+        "signature": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tls.d.ts": {
+        "version": "af5f07deb33b2fb92ef67ea5ebb69670b81c74908b646e7cd4361a331d2a558a",
+        "signature": "af5f07deb33b2fb92ef67ea5ebb69670b81c74908b646e7cd4361a331d2a558a"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/trace_events.d.ts": {
+        "version": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662",
+        "signature": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tty.d.ts": {
+        "version": "08261bfa763b8cd7fa74c06debf70ee22268c299a18e5dc7c48736bc352be007",
+        "signature": "08261bfa763b8cd7fa74c06debf70ee22268c299a18e5dc7c48736bc352be007"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts": {
+        "version": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7",
+        "signature": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts": {
+        "version": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12",
+        "signature": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/v8.d.ts": {
+        "version": "e98d697adf809fc14dc88ed4e00e4f0e0e381ca23d6d9320cf01af87e801f725",
+        "signature": "e98d697adf809fc14dc88ed4e00e4f0e0e381ca23d6d9320cf01af87e801f725"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/vm.d.ts": {
+        "version": "ad20b1311e55187f8eeefdd282a02dbc70e5ac0cf8ab4cabae99c142b32cc562",
+        "signature": "ad20b1311e55187f8eeefdd282a02dbc70e5ac0cf8ab4cabae99c142b32cc562"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/worker_threads.d.ts": {
+        "version": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb",
+        "signature": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/zlib.d.ts": {
+        "version": "2ffd50644d73fc1fa59c69d48859b6c843d3604609d7353725b6d2b001f05a2b",
+        "signature": "2ffd50644d73fc1fa59c69d48859b6c843d3604609d7353725b6d2b001f05a2b"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/base.d.ts": {
+        "version": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
+        "signature": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts": {
+        "version": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c",
+        "signature": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/globals.d.ts": {
+        "version": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1",
+        "signature": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/index.d.ts": {
+        "version": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c",
+        "signature": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/socket.io/index.d.ts": {
+        "version": "2768abfccd13a3e8353f221244e40ea3133281dc7f77425718fea20c91515fc9",
+        "signature": "2768abfccd13a3e8353f221244e40ea3133281dc7f77425718fea20c91515fc9"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/linkstate.ts": {
+        "version": "72addc0d8939389b2519379bf739044cf0a253c00498f332bca4ae1631ef7a1f",
+        "signature": "46fcf73628ae0a0a08bfaf6561b23d8c9e459b93894fb86fc5325f374a038de7"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocket.ts": {
+        "version": "6802fba265e63cc4b1d8820db793818a7ff0627d289079c7b0305e67ecac8f75",
+        "signature": "95603e6e025e9418916441faaa3bcc27a214f2b44fb9a921965a507660811014"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserver.ts": {
+        "version": "af9a56aa150fb20fe0a9acd73f6c534e06dcfa6ee9bc9b4324788e2f7133b0e9",
+        "signature": "0237416102f790e68a0ffecb63f7d82e7fdee4e8fb11a0015a3ce7c2a7616053"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver.ts": {
+        "version": "42202b03a080bbe6d10ad9cdda04661a7027c1c619d06c251c07f50a3afd5930",
+        "signature": "57b474edf0447ad514837a8460df02f5f00fb2a6b54ac60b69092c6be3341c34"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/rawdata.ts": {
+        "version": "9d7c394e73ea2e82a1aa77eb598340bcbed4cad554ab4360aedf1a2e550682fb",
+        "signature": "c5775d62190de10fe356dca38ba978aa638c081553e49d86dbcc3185bf110e82"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socket.ts": {
+        "version": "9145edc51fe142c7d17d0c98cb80d196155804972b90a1112f5a85e078df33a0",
+        "signature": "776c5446c6309fb7614afc73a9bd9083037e19a4507152727005bea8de26186a"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/serversocket-sio.ts": {
+        "version": "9f1bdc71597ace4c14bbe4c4a59df01e873b19995a368d14ff20ccb630ebf369",
+        "signature": "e1bb19e834ce6a7400769abcea1f3db62cd649e5716c3c86a788fea6be5331b2"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserveroptions.ts": {
+        "version": "848c6c82a38bb4cb1d8a26a65a3963866e6885f561ed8cb7e076e430575d4e6c",
+        "signature": "02be0343313cc7f7272d59021405c53c8d9ce162a5e7afb323002f91e60fad21"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver-sio.ts": {
+        "version": "2beb5bcf7e43be9292287eef98de6f5e099bf4b1b872a5cf6c0d9130d1037de9",
+        "signature": "c49ce3713d2ca082625bf9032d996ea9923c4e2e80a658ae257129f9b044b4c6"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/socket.io-client/index.d.ts": {
+        "version": "7255e9138b74f3fe8a9910bf3e711d43be1399ab8a0554bad34dc766511059be",
+        "signature": "7255e9138b74f3fe8a9910bf3e711d43be1399ab8a0554bad34dc766511059be"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/clientsocket-sio.ts": {
+        "version": "3411f4ef65b31bbd30e2f89ec2006e014f07c39902b8dafbb332f7e57c444255",
+        "signature": "1478a790ad803c4cb21b834fcc145a6047499af6b74f48dd57c81d09d670f4d9"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts": {
+        "version": "586b3d3b6ece47ce56c5bef19ef5255fd95d869451b84e5cde97dc19652b1640",
+        "signature": "23d821156ce254c7a02b9c9e63b04d8f8a97739dac8f5d5046a50c90d2cd1aba"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/stubcreator.ts": {
+        "version": "aea4f64fa0af2ba0808ec1e0f9eeb5689a0609488cb847b96efbef4532b949d3",
+        "signature": "932390ab65b8c3df4f8275e64285829bea58794112b6de265d6eb8ffce40014a"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/remoteendpoint.ts": {
+        "version": "6f851e602e1720bed55e21085fb9b3f5ab91a02cc8009fbb4044b2e3232b9643",
+        "signature": "c111d52c7cd3972e6ebaafab36c1e3fb1ff640b35a3b7f576750ed544b968d5f"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/localendpoint.ts": {
+        "version": "a4a698e02b3ffc299d407128e45f8e55c9c43f4068ed9dfdbbae95f747c47e1f",
+        "signature": "b72b8cbe499c63d489756e89c7b4e644fe23b2d71b2fe7c540e2073cba3b6c90"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iserverendpointoptions.ts": {
+        "version": "b62a2668acb5b62f78ddbffc1f9d969ba949113e41ed7000635826aa7ffc3e8d",
+        "signature": "72a1e2b0a2bb5ef4017cbb92f86b66adfaae4bb2cea3ed0825aecd4d447312b6"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/serverendpoint.ts": {
+        "version": "6ccc7c5580c62a7ea21ced0d19de0f25c86c2bfa4c3c71339ad9165681065818",
+        "signature": "0d84611fee3430cf05106ac35253a36435f8a2f931b69d55950f1ccbf4f3ba7a"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/clientendpoint.ts": {
+        "version": "98c6c88f2402d530e7420c84dc02c5e3c00d36e83bc19604a0f567ede45d9cc2",
+        "signature": "35587bf05ba347f83fcb0cb6c2350e2d7b88d6d74713c6094a073d0ec6a30a85"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/index.ts": {
+        "version": "ceb8e96ed2a2867b929517356310bc04faabd6e5e4313c55cd1510928503346e",
+        "signature": "e7909601be61315d8173b0071e3627c50e165ecfa97dbf1b897786a2f9b6f5f9"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/browser.ts": {
+        "version": "d2f91fdff55caa98248bad9dfa828114db43b487bdfc6c5121b3f7f36ec8c27c",
+        "signature": "1497773a0c785cf015a927968e259235a0c506b4db82e9a66aa05e803526d678"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/lib/index.ts": {
+        "version": "c2449ed1c12ace11691f5d3d1ba2bc00a012ffccdf65f6972e373854885f1588",
+        "signature": "68a51160fd32f42032b628d8ec9876478d78b0b68660c6eeb9d554acd012c955"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/chai/index.d.ts": {
+        "version": "b26b3829d52ebdc82a2b9f4fa8051890dc953003382b4411fe4ec6f05351dcf4",
+        "signature": "b26b3829d52ebdc82a2b9f4fa8051890dc953003382b4411fe4ec6f05351dcf4"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/test/l3_presentation/serializer.test.ts": {
+        "version": "7509dc29895c331dd3e81c0b7208ec330290094982f3f7915c6044b0443ffd99",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/test/integration/testserver.ts": {
+        "version": "cfe47b3f0d0edcf5feb4b909df4571b6811752bcfefb6efe7dbed7607955088c",
+        "signature": "13dd3ab3c2f2d4805a0b04c2bc351e95ea2c4cc217c2d6290cf274003161ffe3"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/test/integration/integration.test.ts": {
+        "version": "ead54bac4bf1ac21b56cc651bc7dff6534205cae87639f620f6736560a7ba3a7",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
+      },
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/mocha/index.d.ts": {
+        "version": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205",
+        "signature": "c4c03cf65951d980ba618ae9601d10438730803fc9c8a1f7b34af8739981e205"
+      }
+    },
+    "options": {
+      "target": 2,
+      "module": 1,
+      "declaration": true,
+      "sourceMap": true,
+      "resolveJsonModule": true,
+      "outDir": "C:/Users/Cireneu/Documents/projetos/remo.io/dist",
+      "incremental": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "configFilePath": "C:/Users/Cireneu/Documents/projetos/remo.io/tsconfig.json"
+    },
+    "referencedMap": {
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es6.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es5.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.dom.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.scripthost.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iendpoint.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/timer.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/debug/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/logger.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/debug/index.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/stopwatch.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/timer.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/logger.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/stopwatch.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/errors.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/errors.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/errors.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/remoerror.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/remoteerror.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/remoerror.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/remoteerror.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/endpoint.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/types.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/serializer.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/remoerror.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/index.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/serializer.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/globals.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/assert.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/async_hooks.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/buffer.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/child_process.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/cluster.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/child_process.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/console.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/constants.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/crypto.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dgram.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/domain.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/fs.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http2.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/fs.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tls.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/https.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tls.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/inspector.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/module.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/os.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/path.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/perf_hooks.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/async_hooks.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/process.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/punycode.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/querystring.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/readline.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/repl.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/readline.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/vm.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/string_decoder.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/timers.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tls.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/crypto.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/trace_events.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tty.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/querystring.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/v8.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/vm.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/worker_threads.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/vm.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/zlib.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/base.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/globals.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/assert.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/async_hooks.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/buffer.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/child_process.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/cluster.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/console.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/constants.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/crypto.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dgram.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/domain.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/fs.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http2.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/https.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/inspector.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/module.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/os.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/path.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/perf_hooks.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/process.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/punycode.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/querystring.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/readline.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/repl.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/string_decoder.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/timers.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tls.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/trace_events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tty.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/v8.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/vm.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/worker_threads.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/zlib.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/globals.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/base.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/globals.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/socket.io/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/index.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/linkstate.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocket.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/linkstate.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/remoerror.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserver.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocket.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocket.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserver.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/rawdata.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socket.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socket.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/linkstate.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/rawdata.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/serversocket-sio.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socket.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/rawdata.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/socket.io/index.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserveroptions.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/https.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver-sio.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/socket.io/index.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/serversocket-sio.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserveroptions.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/socket.io-client/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/clientsocket-sio.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socket.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/rawdata.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/socket.io-client/index.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver-sio.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocket.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserver.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserveroptions.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/clientsocket-sio.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/serversocket-sio.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/linkstate.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/stubcreator.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/types.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/remoteendpoint.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/endpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/localendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/types.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/stubcreator.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/localendpoint.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/endpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/remoteendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/stubcreator.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iserverendpointoptions.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/serverendpoint.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/localendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iserverendpointoptions.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/clientendpoint.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/localendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/remoteendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/index.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/serverendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/clientendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/remoteendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iserverendpointoptions.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/browser.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/index.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/chai/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/test/l3_presentation/serializer.test.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/chai/index.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/serializer.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/test/integration/testserver.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/test/integration/integration.test.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/test/integration/testserver.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/chai/index.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/mocha/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es6.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es5.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.dom.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.scripthost.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/debug/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/timer.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/logger.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/stopwatch.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/remoerror.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/endpoint.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iendpoint.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/index.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/serializer.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/globals.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/assert.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/async_hooks.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/buffer.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/child_process.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/cluster.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/child_process.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/console.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/constants.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/crypto.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dgram.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/domain.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/fs.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http2.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/fs.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tls.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/https.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tls.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/inspector.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/module.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/os.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/path.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/perf_hooks.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/async_hooks.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/process.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/punycode.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/querystring.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/readline.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/repl.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/readline.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/vm.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/string_decoder.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/timers.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tls.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/crypto.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/trace_events.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tty.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/querystring.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/v8.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/vm.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/worker_threads.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/vm.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/zlib.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/base.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/globals.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/assert.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/async_hooks.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/buffer.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/child_process.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/cluster.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/console.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/constants.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/crypto.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dgram.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/domain.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/fs.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http2.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/https.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/inspector.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/module.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/os.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/path.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/perf_hooks.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/process.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/punycode.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/querystring.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/readline.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/repl.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/string_decoder.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/timers.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tls.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/trace_events.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tty.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/v8.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/vm.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/worker_threads.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/zlib.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/globals.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/base.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/globals.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/socket.io/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/index.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocket.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/linkstate.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/remoerror.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserver.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocket.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocket.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserver.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socket.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/linkstate.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socket.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/serversocket-sio.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socket.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserveroptions.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/https.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver-sio.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserveroptions.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/socket.io-client/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/clientsocket-sio.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socket.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver-sio.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocket.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserver.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserveroptions.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/clientsocket-sio.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/serversocket-sio.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/linkstate.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/stubcreator.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/types.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/remoteendpoint.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/localendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/types.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/endpoint.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/localendpoint.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/remoteendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/endpoint.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iserverendpointoptions.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/serverendpoint.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iserverendpointoptions.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/localendpoint.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/clientendpoint.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/remoteendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/localendpoint.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/index.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/serverendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/clientendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/remoteendpoint.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iserverendpointoptions.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/browser.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/index.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/lib/index.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/index.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/chai/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/mocha/index.d.ts": [
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+        "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es6.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es5.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2016.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.dom.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iendpoint.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/timer.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/debug/index.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/logger.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/stopwatch.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l0_system/index.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/errors.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/errors.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/errors.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/remoerror.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/remoteerror.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/errors.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/endpoint.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/types.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/serializer.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l3_presentation/index.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/globals.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/assert.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/async_hooks.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/buffer.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/child_process.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/cluster.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/console.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/constants.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/crypto.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dgram.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/dns.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/domain.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/events.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/fs.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/http2.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/https.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/inspector.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/module.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/net.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/os.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/path.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/perf_hooks.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/process.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/punycode.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/querystring.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/readline.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/repl.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/stream.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/string_decoder.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/timers.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tls.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/trace_events.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/tty.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/url.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/util.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/v8.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/vm.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/worker_threads.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/zlib.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/base.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/util.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/globals.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/node/ts3.2/index.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/socket.io/index.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/linkstate.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocket.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserver.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/rawdata.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socket.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/serversocket-sio.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/isocketserveroptions.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/socketserver-sio.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/socket.io-client/index.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/clientsocket-sio.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l1_transport/index.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/stubcreator.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/remoteendpoint.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/localendpoint.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/iserverendpointoptions.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/serverendpoint.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/clientendpoint.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/l4_rcp/index.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/browser.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/lib/index.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/chai/index.d.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/test/l3_presentation/serializer.test.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/test/integration/testserver.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/test/integration/integration.test.ts",
+      "c:/users/cireneu/documents/projetos/remo.io/node_modules/@types/mocha/index.d.ts"
+    ]
+  },
+  "version": "3.5.3"
+}

@@ -1,44 +1,57 @@
-let app = require('express')();
-let http = require('http').Server(app);
-let io = require('socket.io')(http);
-let players = [];
+/*
+    This example demonstrates how to setup and run a remo.io server
+*/
 
-io.on('connection', (socket) => {
-  
-  socket.on('disconnect', function(){
-    let playersAux = [];    
-    for(let i=0; i<players.length; i++){
-        if(players[i] !== socket.playerData && players[i] !={}){
-          playersAux.push(players[i]);
-        }
-    }
-    players = playersAux;
-    io.emit('users-changed', {user: socket.playerData, players: players, event: 'left'}); 
-  });
+var express = require('express');
+var http = require('http');
+var path = require('path');
 
-  socket.on('check-users',function(){
-    io.emit('users', {players: players});    
+const remo = require('remo.io');
 
-  })
- 
-  socket.on('set-player-data', (playerData) => {
-    socket.playerData = playerData;
-    if(playerData !={}){
-      players.push(playerData);
-    }    
-    io.emit('users-changed', {user: playerData, event: 'joined', players: players});    
-  });
-  
-  socket.on('add-message', (message) => {    
-    io.emit('message', {message: message.message, from: socket.playerData, created: new Date()});    
-  });
+/*
+    configure and create web server
+*/
+const app = express();
+// serve application files
+app.use(express.static(path.join(__dirname,  "./client/www")));
+// serve remo.io library
+app.use(express.static(path.join(__dirname,  "./dist/browser")));
 
+const httpServer = http.createServer(app);
 
+/*
+    configure and create remo server
+*/
+// define functions the server should expose to the client
+const api = {
+    hello: function (what) {
+        console.log("Hello " + what + " from client!");
+        return "Hello from server!";
+    },
+    somePromise: function(value) {
+        return new Promise((resolve, reject) => {
+            if (value != null) {
+                resolve(value+1)
+            } else {
+                reject("Specify a value!");
+            }
+        });
+    },
+    callMeBack: function(cb1, cb2) {
+        cb1("Server called you back");
+        cb2("Server called you back again");
+    },
+    echo: (param) => param,
+    // you can also expose builtins...
+    log: console.log,
+    // ... or even all functions of a module
+    fs: require('fs'),
+}
+const remoServer = remo.createServer({ httpServer, api });
 
-});
- 
-var port = process.env.PORT || 3000;
- 
-http.listen(port, function(){
-   console.log('listening in port ' + port);
+/*
+    serve clients
+*/
+httpServer.listen(3000, () => {
+    console.log("\nexample running at http://localhost:" + httpServer.address().port);
 });
