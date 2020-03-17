@@ -5,28 +5,11 @@ const utilsRpc = require('./client/www/handler-rpc');
 var express = require('express');
 var http = require('http');
 var path = require('path');
-//const remoConfig = require('remo.io');
+const remoConfig = require('remo.io');
 const handlerSuccess = require('./utils/handler-success');
 const handlerError = require('./utils/handler-error');
-const {endpoints} = require('@wildcard-api/server');
-const wildcard = require('@wildcard-api/server/express'); // npm install @wildcard-api/server
 const app = express();
 
-app.use(wildcard(getContext));
-
-async function getContext(req) {
-    const context = {};
-    // Authentication middlewares usually make user information available at `req.user`.
-    context.user = req.user;
-    return context;
-}
-
-
-endpoints.hello = async function(name) {
-    console.log(name);
-    utilsRpc.hello();
-    return {message: 'Welcome '+name};
-};
 
 /*
     configure and create web server
@@ -39,55 +22,55 @@ app.use(express.static(path.join(__dirname,  "./dist/browser")));
 const httpServer = http.createServer(app);
 
 
-// const api = {
+const api = {
 
-//     hello:(what)=> {
-//         console.log("Hello " + what + " from client!");
-//         return "Hello from server!";
-//     },
+    hello:(what)=> {
+        console.log("Hello " + what + " from client!");
+        return "Hello from server!";
+    },
 
-//     connectOnePlayer:(player)=>{
-//         if(players.length == 0){
-//             players.push(player);
-//             return api.hello("teste");
-//             //return handlerSuccess("Usuário "+player.id+" entrou.");
-//         }else if(players.length ==1){
-//             if(players[0].id == player.id){
-//                 return handlerError("Já existe um player "+player.id+" conectado.");
-//             }else {
-//                 players.push(player);
-//                 return api.hello("teste");
-//                 //return handlerSuccess("Usuário "+player.id+" entrou.");
-//             }
-//         }else if(players.length >1){
-//             return handlerError("Sala já está lotada.");
-//         }
-//     },
-
-
-//     somePromise: function(value) {
-//         return new Promise((resolve, reject) => {
-//             if (value != null) {
-//                 resolve(value+1)
-//             } else {
-//                 reject("Specify a value!");
-//             }
-//         });
-//     },
+    connectOnePlayer:(player)=>{
+        if(players.length == 0){
+            players.push(player);
+            return api.hello("teste");
+            //return handlerSuccess("Usuário "+player.id+" entrou.");
+        }else if(players.length ==1){
+            if(players[0].id == player.id){
+                return handlerError("Já existe um player "+player.id+" conectado.");
+            }else {
+                players.push(player);
+                return api.hello("teste");
+                //return handlerSuccess("Usuário "+player.id+" entrou.");
+            }
+        }else if(players.length >1){
+            return handlerError("Sala já está lotada.");
+        }
+    },
 
 
-//     callMeBack: function(cb1, cb2) {
-//         cb1("Server called you back");
-//         cb2("Server called you back again");
-//     },
+    somePromise: function(value) {
+        return new Promise((resolve, reject) => {
+            if (value != null) {
+                resolve(value+1)
+            } else {
+                reject("Specify a value!");
+            }
+        });
+    },
 
-//     echo: (param) => param,
-//     // you can also expose builtins...
-//     log: console.log,
-//     // ... or even all functions of a module
-//     fs: require('fs'),
-// }
-// const remoServer = remoConfig.createServer({ httpServer, api });
+
+    callMeBack: function(cb1, cb2) {
+        cb1("Server called you back");
+        cb2("Server called you back again");
+    },
+
+    echo: (param) => param,
+    // you can also expose builtins...
+    log: console.log,
+    // ... or even all functions of a module
+    fs: require('fs'),
+}
+const remoServer = remoConfig.createServer({ httpServer, api });
 
 /*
     serve clients
