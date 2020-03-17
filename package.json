@@ -14,6 +14,8 @@
   "author": "Cireneu Guilherme",
   "license": "ISC",
   "dependencies": {
+    "@wildcard-api/client": "^0.2.10",
+    "@wildcard-api/server": "^0.2.10",
     "connect": "^3.6.6",
     "consign": "^0.1.6",
     "ejs": "^3.0.1",
